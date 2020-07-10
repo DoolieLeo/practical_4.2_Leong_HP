@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">practical_4.2_Leong_HP</string>
+    <string name="chocoCheck">Chocolate syrup</string>
+    <string name="sprinklesCheck">Sprinkles</string>
+    <string name="nutsCheck">Crushed nuts</string>
+    <string name="cherriesCheck">Cherries</string>
+    <string name="orioCheck">Orio cookie crumbles</string>
+    <string name="buttonToast">Show Toast</string>
+</resources>
